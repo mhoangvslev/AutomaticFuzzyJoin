@@ -198,6 +198,7 @@ class DistanceFunction(object):
                 distance = LR.apply(lambda x: self.func(x.value_l, x.value_r, self.embedding), axis=1)
         else:
             distance = LR.apply(lambda x: self.func(x.value_l, x.value_r, weight), axis=1)
+        #return distance.fillna(distance.max())
         return distance
 
 # data = pd.read_csv("../../data/left.csv")["title"]

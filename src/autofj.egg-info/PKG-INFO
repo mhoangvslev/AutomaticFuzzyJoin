@@ -5,8 +5,6 @@ Summary: Auto-Program Fuzzy Similarity Joins Without Labeled Examples
 Home-page: https://github.com/chu-data-lab/AutomaticFuzzyJoin
 Author: Peng Li
 Author-email: lipengpublic@gmail.com
-License: UNKNOWN
-Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -154,4 +152,3 @@ Join left table and right table.
     A table of joining pairs. The columns of left table are
     suffixed with "_l" and the columns of right table are suffixed
     with "_r".
-

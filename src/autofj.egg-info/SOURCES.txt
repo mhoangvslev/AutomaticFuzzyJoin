@@ -12,7 +12,6 @@ src/autofj.egg-info/SOURCES.txt
 src/autofj.egg-info/dependency_links.txt
 src/autofj.egg-info/requires.txt
 src/autofj.egg-info/top_level.txt
-src/autofj/benchmark/.DS_Store
 src/autofj/benchmark/Amphibian/gt.csv
 src/autofj/benchmark/Amphibian/left.csv
 src/autofj/benchmark/Amphibian/right.csv
@@ -76,6 +75,18 @@ src/autofj/benchmark/HistoricBuilding/right.csv
 src/autofj/benchmark/Hospital/gt.csv
 src/autofj/benchmark/Hospital/left.csv
 src/autofj/benchmark/Hospital/right.csv
+src/autofj/benchmark/KM_Book_2col/Book_em_gt.json
+src/autofj/benchmark/KM_Book_2col/gt.csv
+src/autofj/benchmark/KM_Book_2col/left.csv
+src/autofj/benchmark/KM_Book_2col/left.csv.bak
+src/autofj/benchmark/KM_Book_2col/left_aug.csv
+src/autofj/benchmark/KM_Book_2col/right.csv
+src/autofj/benchmark/KM_Movie_2col/Movie_em_gt.json
+src/autofj/benchmark/KM_Movie_2col/gt.csv
+src/autofj/benchmark/KM_Movie_2col/left.csv
+src/autofj/benchmark/KM_Movie_2col/left_aug1.csv
+src/autofj/benchmark/KM_Movie_2col/left_aug2.csv
+src/autofj/benchmark/KM_Movie_2col/right.csv
 src/autofj/benchmark/Legislature/gt.csv
 src/autofj/benchmark/Legislature/left.csv
 src/autofj/benchmark/Legislature/right.csv
