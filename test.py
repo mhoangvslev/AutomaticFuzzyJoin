@@ -60,7 +60,7 @@ if __name__ == "__main__":
     args = sys.argv[1:]
     dataset = args[0]
     target_precision = float(args[1])
-    outdir = os.path.join("exp", dataset)
+    outdir = os.path.join("exp", f"{dataset}_autofj_{target_precision}")
     os.makedirs(outdir, exist_ok=True)
 
     # Train model
